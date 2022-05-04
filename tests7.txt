@@ -1,0 +1,6 @@
+java Main personalInput.txt Cry Noun
+
+distance: 151 km
+route:
+Cry to Verb, 48 km
+Verb to Noun, 103 km

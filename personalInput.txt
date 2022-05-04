@@ -1,0 +1,15 @@
+Noun Verb 103
+Verb Bean 22
+Bean Bar 20
+Bar Verb 41
+Verb Cry 48
+Cry Dash 65
+Movie Ice 88
+Ice Hatch 50
+Hatch Jade 7
+Cry Keck 142
+Goal Keck 51
+Twitch Cry 83
+Verb Win 199532
+Win End 9
+END OF INPUT

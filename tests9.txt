@@ -1,0 +1,7 @@
+java Main personalInput.txt Twitch Goal
+
+distance: 276 km
+route:
+Twitch to Cry, 83 km
+Cry to Keck, 142 km
+Keck to Goal, 51 km

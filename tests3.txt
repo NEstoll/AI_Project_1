@@ -1,0 +1,5 @@
+java Main input.txt Bristol Munich
+
+distance: infinity
+route:
+none

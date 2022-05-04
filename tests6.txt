@@ -1,0 +1,5 @@
+java Main personalInput.txt Ice Win
+
+distance: infinity
+route:
+none

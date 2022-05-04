@@ -1,0 +1,9 @@
+java Main input.txt Saarbruecken Berlin
+
+distance: 841 km
+route:
+Saarbruecken to Frankfurt, 177 km
+Frankfurt to Kassel, 185 km
+Kassel to Hannover, 165 km
+Hannover to Magdeburg, 148 km
+Magdeburg to Berlin, 166 km

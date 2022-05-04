@@ -1,0 +1,5 @@
+java Main personalInput.txt Hatch Bean
+
+distance: infinity
+route:
+none

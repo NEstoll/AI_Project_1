@@ -1,0 +1,9 @@
+java Main input.txt Duesseldorf Dresden
+
+distance: 914 km
+route:
+Duesseldorf to Dortmund, 69 km
+Dortmund to Bremen, 234 km
+Bremen to Hamburg, 116 km
+Hamburg to Berlin, 291 km
+Berlin to Dresden, 204 km

@@ -1,0 +1,8 @@
+java Main input.txt Bremen Munich
+
+distance: 870 km
+route:
+Bremen to Dortmund, 234 km
+Dortmund to Frankfurt, 221 km
+Frankfurt to Stuttgart, 200 km
+Stuttgart to Munich, 215 km

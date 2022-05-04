@@ -1,0 +1,5 @@
+java Main input.txt Leipzig Leipzig
+
+distance: 0 km
+route:
+Leipzig to Leipzig, 0 km

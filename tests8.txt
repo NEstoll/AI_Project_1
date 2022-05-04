@@ -1,0 +1,5 @@
+java Main personalInput.txt Win Win
+
+distance: 0 km
+route:
+Win to Win, 0 km
