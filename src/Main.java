@@ -66,25 +66,4 @@ public class Main {
         }
         return null;
     }
-
-    private static ArrayList<Pair<String, Integer>> findPath(Map<String, Map<String, Integer>> cities, String current, String destination, int steps, int distance) {
-        if (steps > cities.size()) {
-            return null;
-        }
-        if (current.equals(destination)) {
-            //route found - print path
-            System.out.println("distance: " + distance + " km");
-            ArrayList<Pair<String, Integer>> path = new ArrayList<>();
-            path.add(new Pair<>(current, 0));
-            return path;
-        }
-        for (Map.Entry<String, Integer> road : cities.get(current).entrySet()) {
-            ArrayList<Pair<String, Integer>> path = findPath(cities, road.getKey(), destination, steps+1, distance+road.getValue());
-            if (path != null) {
-                path.add(0, new Pair<>(current, road.getValue()));
-            }
-        }
-
-        return null;
-    }
 }

@@ -12,10 +12,6 @@ public class City {
         this.distance = distance;
     }
 
-    public boolean equals(City o) {
-        return o.name.equals(this.name);
-    }
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
